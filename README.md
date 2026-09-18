@@ -10,7 +10,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
 
-- 🎓 &nbsp; 2026 → DAW Student 💻
+- 🎓 &nbsp; 2026 → DAW Student
+- i have bald cat ( Lord Bills )
+- my little dog (Boy)
+  
 
 <h3>🛠 Tech Stack</h3>
 
